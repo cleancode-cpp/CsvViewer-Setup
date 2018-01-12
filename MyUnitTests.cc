@@ -2,7 +2,7 @@
 
 #include "MyClass.h"
 
-TEST(TriviaTest, Foo) {
+TEST(MyUnit, Foo) {
   MyClass myClass;
   EXPECT_EQ(false, myClass.isAlwaysTrue()); // FIXME
 }
