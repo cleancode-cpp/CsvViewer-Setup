@@ -1,10 +1,9 @@
 #ifndef MYCLASS_H_
 #define MYCLASS_H_
 
-class MyClass
-{
+class MyClass {
 public:
-	bool isAlwaysTrue();
+  bool isAlwaysTrue();
 };
 
-#endif /* MYCLASS_H_ */
+#endif // MYCLASS_H_
